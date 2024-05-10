@@ -7,6 +7,14 @@ Este espacio es creado con la intención de documentar y publicar diferentes tem
 El diseñar e incorporar tecnologías innovadoras para la optimización, mejora de los servicios y procesos de una empresa, con la finalidad de elevar la productividad y la calidad ha implusado la creación de este repositorio.
 
 # Material
+- Resumen
+- Anotaciones
+  - Inteligencia Artificial
+  - Logistica QR
+- Sugerencias
+  - Herramientas
+- Aprende Emprendiendo
+- Novedades
 
 # Contacto
 
