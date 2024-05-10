@@ -17,7 +17,10 @@ El diseñar e incorporar tecnologías innovadoras para la optimización, mejora 
 - [Novedades](https://github.com/CampRamos/novedades)
 
 # Contacto
-![Logo](https://github.com/CampRamos/CampRamos/blob/main/qr-code.png)
+<img src="https://github.com/CampRamos/CampRamos/blob/main/qr-code.png" width=25% height=25%>
+
+## Contacto Rapido
+<img src="https://github.com/CampRamos/CampRamos/blob/main/atencionHoreb.png" width=25% height=25%>
 <!--
 ### Hi there 👋
 
