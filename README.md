@@ -7,17 +7,17 @@ Este espacio es creado con la intención de documentar y publicar diferentes tem
 El diseñar e incorporar tecnologías innovadoras para la optimización, mejora de los servicios y procesos de una empresa, con la finalidad de elevar la productividad y la calidad ha implusado la creación de este repositorio.
 
 # Material
-- [Resumen]
-- [Anotaciones]
+- [Resumen](https://github.com/CampRamos/resumen)
+- [Anotaciones](https://github.com/CampRamos/notes)
   - [Inteligencia Artificial]
   - [Logistica QR]
-- [Sugerencias]
+- [Sugerencias](https://github.com/CampRamos/suggestions)
   - [Herramientas]
-- [Aprende Emprendiendo]
-- [Novedades]
+- [Aprende Emprendiendo](https://github.com/CampRamos/horeb)
+- [Novedades](https://github.com/CampRamos/novedades)
 
 # Contacto
-
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png )
 <!--
 ### Hi there 👋
 
