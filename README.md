@@ -11,7 +11,7 @@ Se tiene el proposito de mantener este repositorio lo más actualizado posible c
 El diseñar e incorporar tecnologías innovadoras para la optimización, mejora de los servicios y procesos de una empresa, con la finalidad de elevar la productividad y la calidad ha implusado la creación de este repositorio.
 
 # Material
-- [Resumen](https://github.com/CampRamos/CampRamos/wiki/Resumen-%E2%80%90-Curriculum)
+- [Resumen](https://github.com/CampRamos/resumen)
 - [Anotaciones](https://github.com/CampRamos/notes)
   - [Inteligencia Artificial]
   - [Logistica QR]
