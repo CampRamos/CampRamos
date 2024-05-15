@@ -2,7 +2,7 @@
 
 Este espacio es creado con la intención de documentar y publicar diferentes temas tecnológicos innovadores con los que en algún momento se les puede ayudar a implementar.
 
-[!NOTE]
+-[!NOTE]-
 Aun me encuentro trabajando en la Universidad Panamericana
 
 
