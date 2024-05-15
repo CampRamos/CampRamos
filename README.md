@@ -7,7 +7,7 @@ Este espacio es creado con la intención de documentar y publicar diferentes tem
 El diseñar e incorporar tecnologías innovadoras para la optimización, mejora de los servicios y procesos de una empresa, con la finalidad de elevar la productividad y la calidad ha implusado la creación de este repositorio.
 
 # Material
-- [Resumen](https://github.com/CampRamos/resumen)
+- [Resumen](https://github.com/CampRamos/CampRamos/wiki/Resumen-%E2%80%90-Curriculum)
 - [Anotaciones](https://github.com/CampRamos/notes)
   - [Inteligencia Artificial]
   - [Logistica QR]
